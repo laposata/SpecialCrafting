@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fragile_wings",
+  "key": {
+    "2": {
+      "item": "minecraft:shulker_shell"
+    },
+    "3": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "4": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "pattern": [
+    "232",
+    "343",
+    "424"
+  ],
+  "result": {
+    "item": "minecraft:rabbit_hide"
+  }
+}
